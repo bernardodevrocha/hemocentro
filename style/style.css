@@ -54,7 +54,7 @@ select, input {
     border-radius: 4px;
 }
 
-button {
+button, a{
     padding: 10px;
     background-color: #007bff;
     color: white;
@@ -64,7 +64,7 @@ button {
     margin-bottom: 10px;
 }
 
-button:hover {
+button:hover, a:hover {
     background-color: #0056b3;
 }
 
